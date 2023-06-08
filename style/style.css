@@ -1,0 +1,539 @@
+body{
+    width: 1440px;
+    margin: 0 auto;
+}
+.ul{
+    display: flex;
+    gap: 40px;
+}
+.ul li {
+    list-style: none;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.dark-team{
+    position: relative;
+    right: 240px;
+}
+.service_title_Red{
+    font-family: Roboto;
+font-size: 72px;
+font-weight: 700;
+text-align: center;
+position: relative;
+top: 60px;
+color: #FF5E69;
+margin-top: 20px;
+
+}
+.service_title_black1{
+    font-family: Roboto;
+font-size: 72px;
+font-weight: 700;
+text-align: center;
+margin-top: 50px;
+
+
+color: black;
+}
+.service_title_p{
+    color: #666666;
+    text-align: center;
+    position: relative;
+    bottom: 100px;
+    margin-top: 50px;
+
+}
+.service__title{
+    width: 600px;
+    height: 100px;
+}
+.service_title_black2{
+    font-family: Roboto;
+font-size: 72px;
+font-weight: 700;
+text-align: center;
+position: relative;
+bottom: 60px;
+color: black;
+margin-top: 40px;
+}
+.service_title__buttons{
+    position: relative;
+    bottom: 70px;
+    
+}
+.service_title__buttons button{
+    height: 58px;
+width: 149.13580322265625px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+
+}
+.btn_book{
+    background-color: black;
+    color: white;
+}
+.btn_see{
+    background-color: white;
+    border: 1px solid white;
+}
+.service{
+    display: flex;
+    gap: 67px;
+    justify-content: center;
+}
+.navbar{
+    position: relative;
+    left: 100px;
+}
+.services_title h3{
+    font-family: Roboto;
+font-size: 22px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 4px;
+text-align: center;
+color:#FF5E69;
+
+}
+.services_title p{
+    font-family: Roboto;
+font-size: 54px;
+font-weight: 700;
+line-height: 59px;
+letter-spacing: 1px;
+text-align: center;
+
+}
+.services_cards__item h3{
+    font-family: Roboto;
+font-size: 24px;
+font-weight: 700;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.services_cards__item p {
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.services_cards__item ul li{
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 700;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.services_cards__item{
+    width: 290px;
+}
+.service_cards{
+    display: flex;
+    justify-content: center;
+    gap: 157px;
+    margin-top: 100px;
+    
+}
+.services{
+    margin-top: 200px;
+}
+
+.projects_title h4{
+    font-family: Roboto;
+font-size: 54px;
+font-weight: 700;
+line-height: 59px;
+letter-spacing: 1px;
+text-align: left;
+
+}
+
+.projects_btn{
+    height: 58px;
+width: 198.5185089111328px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+
+}
+.projects_title{
+   display: flex; 
+   justify-content: space-between;
+   align-items: center;
+   
+}
+.projects_h4{
+    font-family: Roboto;
+font-size: 22px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 4px;
+text-align: left;
+color: #FF5E69;
+text-align: center;
+}
+.projects{
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 140px;
+}
+
+.project_card h4{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 14px;
+    letter-spacing: 4px;
+    text-align: left;
+   color:  #3C46FF;    
+}
+.project_card h5{
+    font-family: Roboto;
+font-size: 24px;
+font-weight: 700;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+}
+
+.project_card p{
+    font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.projects_cards {
+    display: flex;
+    gap: 40px;
+}
+
+.projects_buttons{
+    display: flex;
+    gap: 10px;
+    justify-content: end;
+    margin-top: 62px;
+}
+
+.projects_buttons button{
+    height: 54px;
+width: 53.33332443237305px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+background-color: black;
+color: white;
+border: none;
+}
+.about_title h2{
+    font-family: Roboto;
+font-size: 22px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 4px;
+text-align: left;
+color: #FF5E69;
+text-align: center;
+}
+.about_subtitle{
+    display: flex;
+    justify-content: center;
+    gap: 290px;
+    
+}
+.subtitle_1 h3{
+    font-family: Roboto;
+font-size: 22px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 4px;
+text-align: left;
+color: #FF5E69;
+
+}
+.subtitle_1 p{
+    font-family: Roboto;
+font-size: 52px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 4px;
+text-align: left;
+color: black;
+position: relative;
+top: 40px;}
+
+
+.subtitle_2 p{
+    text-align: center;
+    font-family: Roboto;
+font-size: 22px;
+font-weight: 400;
+line-height: 40px;
+letter-spacing: 0em;
+text-align: left;
+color: #666666;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  #show img {
+    height: 500px;
+width: 1207.4456787109375px;
+
+
+border-radius: 0px;
+position: relative;
+left: 170px;
+  }
+  
+  .indicators {
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    gap: 38px;
+    margin-top: 30px;
+    position: relative;
+    left: 170px;
+    
+  }
+  
+  .indicators img {
+    height: 170px;
+width: 252.99942016601562px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+
+  }
+
+  .carousel{
+    margin-top: 120px;
+  }
+  .subtitle_1{
+    position: relative;
+    top: 40px;
+  }
+  .subtitle_2{
+    position: relative;
+    top: 40px;
+  }
+
+  .experience_title h2{
+    font-family: Roboto;
+font-size: 22px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 4px;
+text-align: center;
+color: #FF5E69;
+  }
+  .experience{
+    margin-top: 120px;
+  }
+  .card_item_values{
+    display: flex;
+    gap: 137px;
+  }
+  .h3{
+    font-family: Roboto;
+font-size: 24px;
+font-weight: 700;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: 10px;
+
+
+  }
+.p{
+    color: gray;
+    margin-top: 20px;
+}
+  .str{
+    position: relative;
+    bottom: 10px;
+    left: 180px;
+  }
+  .p1{
+    color: gray;
+    position: relative;
+    top: 40px;
+  }
+  .experience_card{
+    width: 570px;
+  }
+  .hr{
+    margin-top: 15px;
+  }
+   .stw{
+    position: relative;
+    left: 180px;
+    top: 10px;
+   }
+   .sts{
+    position: relative;
+    left: 180px;
+    top: 10px;
+   }
+   .experience_card{
+    margin-top: 70px;
+   }
+   .experience_cards{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+   }
+   .testimonials_item{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    gap: 52px;
+   }
+   .testimonials_21{
+    width: 571px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   }
+   .tst{
+    height: 44.08170700073242px;
+width: 43.84075164794922px;
+left: 0.10125732421875px;
+top: 0.85400390625px;
+border-radius: 0px;
+
+   }
+   .testimonials_21 h2{
+    font-family: Roboto;
+font-size: 36px;
+font-weight: 700;
+line-height: 47px;
+letter-spacing: 0em;
+text-align: left;
+
+   }
+
+   .franklin{
+    font-family: Roboto;
+font-size: 20px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+   }
+   .franklin1{
+    margin-top: 40px;
+   }
+   .jade{
+    margin-top: 20px;
+   }
+   .testimonials_title h2{
+    font-family: Roboto;
+font-size: 22px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 4px;
+text-align: left;
+color: #FF5E69;
+text-align: center;
+margin-top: 20px;
+   }
+   .testimonials{
+    margin-top: 100px;
+   }
+   footer{
+    background-color: black;
+    padding: 76px;
+   }
+   .accordion_title h2{
+    font-family: Roboto;
+font-size: 54px;
+font-weight: 700;
+line-height: 59px;
+letter-spacing: 1px;
+text-align: left;
+color: white;
+text-align: center;
+margin-top: 20px;
+   }
+   .accordion_title h3{
+    font-family: Roboto;
+font-size: 22px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 4px;
+text-align: left;
+color: #FF5E69;
+text-align: center;
+   }
+
+
+   * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    gap: 53px;
+  }
+  
+  .accordion-header {
+    padding: 10px;
+    width: 100%;
+    cursor: pointer;
+  }
+  
+  .accordion-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: 0.5s;
+  }
+  .accordion-content p{
+    color: white;
+  }
+  .accordion-header{
+    color: white;
+    font-family: Roboto;
+font-size: 24px;
+font-weight: 700;
+line-height: 31px;
+letter-spacing: 0.30000001192092896px;
+text-align: left;
+background: #000;
+
+  }
+
+  .stre{
+    position: relative;
+    left: 540px;
+    bottom: 30px;
+  }
+  .container{
+    margin-top: 100px;
+  }
